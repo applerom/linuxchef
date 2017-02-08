@@ -1,4 +1,4 @@
-# Linuxcmd Cookbook
+# Cookbook linuxcmd
 
 Installs linuxcmd.
 
