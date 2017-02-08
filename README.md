@@ -32,7 +32,7 @@ Put recipe[linuxcmd] in a run list, or include_recipe 'linuxcmd' to ensure that 
 
 Maintainer:: Roman Sevko aka apple_rom
 
-Copyright 2017, Roman Sevko
+Copyright 2017, apple_rom
 
 ```
 Licensed under the Apache License, Version 2.0 (the "License");
