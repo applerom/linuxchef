@@ -30,7 +30,7 @@ Put recipe[linuxcmd] in a run list, or include_recipe 'linuxcmd' to ensure that 
 
 ## License and Author
 
-Maintainer:: Roman Sevko [bios@rom.by](mailto:bios@rom.by)
+Maintainer:: Roman Sevko aka apple_rom
 
 Copyright 2017, Roman Sevko
 
